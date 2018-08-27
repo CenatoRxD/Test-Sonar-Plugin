@@ -9,8 +9,5 @@
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
-    <properties>
-        <sonar.exclusion>pom.xml</sonar.exclusion>
-    </properties>
 
 </project>
