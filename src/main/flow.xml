@@ -5,6 +5,7 @@
     <BRANCH TIMEOUT="" SWITCH="/action">
         <COMMENT>Check Group Asset !</COMMENT>
 
+
         <!-- nodes -->
 
         <SEQUENCE NAME="suspend" TIMEOUT="" EXIT-ON="FAILURE">
